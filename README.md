@@ -85,7 +85,7 @@
     ```bash
     jupyter notebook
     ```
-4.  Откройте файл `video_games_analysis.ipynb` и запустите все ячейки для воспроизведения анализа. Также можно использовать файл `video_games_analysis.html`, чтобы увидеть весь проект без запуска ячеек.
+4.  Откройте файл `video_games_analysis.ipynb` и запустите все ячейки для воспроизведения анализа.
 
 ---
 *Данные для анализа были взяты с [Kaggle: Video Game Sales](https://www.kaggle.com/datasets/gregorut/videogamesales).*
